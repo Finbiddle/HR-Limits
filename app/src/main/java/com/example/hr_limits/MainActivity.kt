@@ -1,4 +1,4 @@
-package fi.oamk.heartratelimits
+package com.example.hr_limits
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,7 +23,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.heartratelimits.ui.theme.HeartRateLimitsTheme
+import com.example.hr_limits.ui.theme.HeartRateLimitsTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
